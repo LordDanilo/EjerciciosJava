@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=arr\ buscado
+comment0.target=int\ buscarPosElemento(int[],\ int)
+comment1.params=arr\ buscado
+comment1.target=boolean\ buscarElemento2(int[],\ int)
+numComments=2

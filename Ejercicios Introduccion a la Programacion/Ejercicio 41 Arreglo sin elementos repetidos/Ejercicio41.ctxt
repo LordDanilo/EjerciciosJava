@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=arr
+comment0.target=int[]\ evaluarArray(int[])
+comment1.params=arr
+comment1.target=int\ obtenerTam(int[])
+numComments=2
