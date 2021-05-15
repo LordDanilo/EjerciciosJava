@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=mat
+comment0.target=java.lang.String\ recorrerMatriz(int[][])
+comment1.params=tam
+comment1.target=int[][]\ generarMatriz(int)
+numComments=2
