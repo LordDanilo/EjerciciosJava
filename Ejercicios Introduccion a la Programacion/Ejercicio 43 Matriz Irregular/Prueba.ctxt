@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int[][]\ generarMatriz()
+comment1.params=
+comment1.target=int[][]\ generarMatriz2()
+comment2.params=
+comment2.target=int[][]\ generarMatriz3()
+comment3.params=mat
+comment3.target=void\ recorrerMatriz(int[][])
+numComments=4
